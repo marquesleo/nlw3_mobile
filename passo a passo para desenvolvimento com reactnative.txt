@@ -1,0 +1,8 @@
+
+
+processo para começar a desenvolver react native
+-- instalar o expo
+    yarn global add expo-cli ou npm install -g expo-cli
+-- iniciar o projeto
+   expo init mobile 
+   
